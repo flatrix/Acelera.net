@@ -117,7 +117,7 @@ namespace Modulo_8
 
         private string geraHash(int v)
         {
-            var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            var chars = "ABCDEF0123456789";
             var random = new Random();
             var result = new string(
                 Enumerable.Repeat(chars, v)
