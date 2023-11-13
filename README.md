@@ -17,5 +17,4 @@ para alunos do Projeto Acelera .NET
 
 📧flaviosiqueira@outlook.com
 
-
-ok
+corrigido
